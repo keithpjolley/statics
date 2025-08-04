@@ -21,7 +21,7 @@ lint:
     - actionlint@1.7.7
     - bandit@1.8.6
     - black@25.1.0
-    - checkov@3.2.454
+    - checkov@3.2.457
     - flake8@7.3.0
     - git-diff-check
     - isort@6.0.1
@@ -29,8 +29,8 @@ lint:
     - oxipng@9.1.5
     - prettier@3.6.2
     - remark-lint@12.0.1
-    - renovate@41.43.2
-    - ruff@0.12.5
+    - renovate@41.46.8
+    - ruff@0.12.7
     - shellcheck@0.10.0
     - shfmt@3.6.0
     - taplo@0.9.3
